@@ -12,7 +12,7 @@
     <Username>******</Username>
     <Password>123456</Password>
 
-    <FilePath>./Declarations/Declare.png</FilePath>
+    <FilePath>./Declarations/Declare.jpg</FilePath>
 
     <!-- Web Attachment and E-mail configurations -->
     <AttachmentDescription>Daily Health Declaration</AttachmentDescription>
