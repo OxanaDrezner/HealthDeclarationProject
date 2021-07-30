@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!-- TimeOut -->
+    <TimeOut>5</TimeOut>
+
+    #############
+    <!-- Web -->
+    #############
+    <BrowserName>chrome</BrowserName>
+    <url>https://parents.education.gov.il/prhnet/parents/rights-obligations-regulations/health-statement-kindergarden?utm_source=sms</url>
+    <!-- Web Login Form -->
+    <Username>******</Username>
+    <Password>123456</Password>
+
+    <FilePath>./Declarations/Declare.png</FilePath>
+
+    <!-- Web Attachment and E-mail configurations -->
+    <AttachmentDescription>Daily Health Declaration</AttachmentDescription>
+    <AttachmentName>Health Declaration</AttachmentName>
+    <EmailHostName>smtp.gmail.com</EmailHostName>
+    <EmailSmtpPort>465</EmailSmtpPort>
+    <EmailAuthenticatorUsername>FakeMail@gmail.com</EmailAuthenticatorUsername>
+    <EmailAuthenticatorPassword>*******</EmailAuthenticatorPassword>
+    <EmailFrom>FakeMail@gmail.com</EmailFrom>
+    <EmailSubject>Health Declaration of my daughter</EmailSubject>
+    <EmailMsg>Good Morning! This is your daily Health Declaration </EmailMsg>
+    <EmailAddTo>oxana.drezner@gmail.com</EmailAddTo>
+
+</Environment>
