@@ -33,4 +33,4 @@ The final result was an e-mail with the form, waiting in my inbox daily  :)
 
 
 > ### **Known Issues:**
-> For now, there is no need to fill out Health Declaration forms for kids thus the Bot is on vacation.
+> For now, there is no need to fill in Health Declaration forms for kids thus the Bot is on vacation.
